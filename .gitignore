@@ -1,0 +1,8 @@
+build
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.bin
+*.elf
